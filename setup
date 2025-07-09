@@ -18,15 +18,4 @@ echo -e "
       |$grn SUBSCRIBE:$cod Noob Hackers          $grn |$grn
       |$grn CHAT:$cod wa.me/+919113948054        $grn |$grn
        $grn-----------------------------------$grn
-"
-center "INSTALLATION"
-#echo $BASH
-cd $HOME
-center "FINALIZING ALL PROCESS"
-echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
-center "[X]COMPLETED SUCCESSFULLY[X]"
-am start -a android.intent.action.VIEW -d https://bit.ly/nbhytchannel
-rm setup
-cd $HOME/ighack
-bash ighack.sh
-exit
+
